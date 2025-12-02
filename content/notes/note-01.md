@@ -1,0 +1,16 @@
++++
+date = '2012-02-14T11:36:24+08:00'
+hidesidebar = true
+title = 'The Smartphone in the Real World'
++++
+**Smartphones are enabling more and more people to interact richly and efficiently with the world around them. A standard response today to “what’s this?”, “how much is it?”, “when’s that?”, or “how do I?” is to get out the phone and expect it to produce a smart answer, which, more and more, it does. Smartphones are enabling people to scan bar and QR (quick response) codes, tap NFC (near field communications) tags, experience Augmented Reality, locate themselves on maps, and do sophisticated Visual and Voice search. Even the humble SMS short code is often a way for someone to react to something they see in the real world (or the TV). All of these experiences have the potential to bring the power of the Internet into the real world in a personal and relevant way.**
+
+What sort of experiences are we talking about? SMS short codes have been used for TV voting and special offers. QR codes are found in bus stops (when’s the next bus?), on billboards and posters (movie show times and trailers, and interactive ads), in newspapers, magazines and inserts (coupons and special offers), in museums (identifying exhibits), at conferences and on wedding invitations (locations and schedules), and (thank you GoDaddy) on the TV screen. NFC is emerging and promises even more, with a strong emphasis on payments.
+
+Rather than static printed information these new mobile-enhanced experiences are on-demand from a user’s point of view— what you want and no more— ­and can be customized by the content owner to the reader, time of day, location or other criteria.  That adaptability and targeting is taken for granted on-line— it’s coming to the real world, via the smartphone.
+
+To deliver great experiences content owners, application developers, and brands start by “attaching” their rich, Internet-based information to the real world, via QR code, NFC tag or the like. Then, to make this useful and actionable, they need analytics to understand how, where, and when that information is being accessed. It is with those real-world analytics that the experiences can be enhanced and developed over time.
+
+It’s already clear a wide variety of technologies will play a role in tagging and enhancing the real world. Sometimes discussion of this is couched in dramatic language; we hear that QR codes are going to destroy short code SMS, and then augmented reality, visual search and NFC will replace QR codes. At the end of the day there is a role for many types of interaction, they are all solving similar fundamental problems.
+
+What’s exciting to me is simply the way the power of the Internet can enhance real-world experiences. Bringing the Internet into the world is the value to consumers, exactly how that happens is not the important thing. Over the next few years the interactions will become more and more seamless, as phones and other devices are better and better connected. I am excited to be part of this.

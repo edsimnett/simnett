@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Simnett Home Page</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on Simnett Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 11:30:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revisiting Peak Horse</title>
+      <link>http://localhost:1313/notes/note-10/</link>
+      <pubDate>Wed, 17 Sep 2025 12:00:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-10/</guid>
+      
+        <description>&lt;p&gt;Tldr: Looking purely at valuation there is no evidence Uber created a valuable “new use case”. Instead, it has captured most of the value of the taxi market that it disrupted.&lt;/p&gt;
+&lt;p&gt;In 2014 I wrote a &lt;a href=&#34;http://localhost:1313/notes/note-05/&#34;&gt;post&lt;/a&gt; in response to discussions of the valuation and potential for Uber. At the time Uber was valued at around $15-20B. Today it is worth $200B (not bad, though you would have done better, and very likely slept better, buying Microsoft, never mind Nvidia, which is extraordinary, but that’s another topic). &lt;a href=&#34;https://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/&#34;&gt;A post&lt;/a&gt; challenged an &lt;a href=&#34;https://aswathdamodaran.blogspot.com/2014/06/a-disruptive-cab-ride-to-riches-uber.html&#34;&gt;NYU Stern professor&lt;/a&gt; for even considering the taxi market as a proxy for Uber’s opportunity, partly referencing the idea that analyzing the market that way was like trying to size the market for cars by looking at peak horse.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Search monetization and Consumer AI use cases</title>
+      <link>http://localhost:1313/notes/note-09/</link>
+      <pubDate>Thu, 23 Feb 2023 12:00:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-09/</guid>
+      
+        <description>&lt;p&gt;Those of a certain age will probably remember being asked, when pitching a new technology idea, some variation of “What’s your business model [son]?” ChatGPT and its ilk (“Conversational AI” or “AI”) are already seen as existential threats to the existing search players from a user point of view. While history has shown that, in general, with large audiences comes some reasonable monetization, it is worth considering how well-suited Conversational AI is to delivering search-style and levels of monetization. Two issues are discussed here, the type of questions/searches conversational AI is well suited for, and the specificity and display of the results.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Apple Pay- don’t leave home without it, and a credit card?</title>
+      <link>http://localhost:1313/notes/note-08/</link>
+      <pubDate>Fri, 24 Oct 2014 11:59:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-08/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Apple is tying a new (but old) payment method to a new phone and a new OS. While obviously mass market in intent, the rollout means it’s likely to be used initially by tech-savvy early adopters.  These are the same people who have been saving their credit cards with e- and m- commerce merchants for years now (isn’t the magic of Uber the fact you don’t pay?). A quick analysis of my credit card bill shows more than half the charges are stored card-on-file transactions. If my supermarket had its own Starbucks-like app, that would take out another 10-15% of my transactions.&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Everything’s old that’s new again, or something- how people used to pay in restaurants…</title>
+      <link>http://localhost:1313/notes/note-06/</link>
+      <pubDate>Fri, 15 Aug 2014 11:59:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-06/</guid>
+      
+        <description>&lt;p&gt;As more and more transactions move away from being quasi-anonymous card transactions, it’s interesting to see how 120 years ago people paid for meals in restaurants.&lt;/p&gt;
+&lt;p&gt;It seems there was an expectation that people would have accounts at restaurants, and would order in advance. If you had no account you would pay in advance (perhaps this was the model Diners Club disrupted?).&lt;/p&gt;
+&lt;p&gt;From Walter Germain, The Complete Bachelor: Manners for Men (NY: 1897) &amp;ldquo;All meals in a restaurant, unless organized on the spur of a moment, are ordered beforehand and everything, including the waiter’s tip, arranged and settled for. If you have not an account at the restaurant, pay the bill at the time you arrange the menu and reserve the table.” Quoted &lt;a href=&#34;http://www.theatlantic.com/technology/archive/2014/07/where-restaurant-reservations-come-from/374919/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Facebook- once users go mobile they stay mobile- analysis of FB’s user numbers by platform</title>
+      <link>http://localhost:1313/notes/note-07/</link>
+      <pubDate>Thu, 31 Jul 2014 11:59:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-07/</guid>
+      
+        <description>&lt;p&gt;Looking at Facebook’s reported data since Q4 2012 it is clear that mobile really is driving growth, and digging in a little further it seems that as users transition to mobile, they tend to become primarily-mobile users, there are very few casually-mobile users of Facebook.&lt;/p&gt;
+&lt;p&gt;First a look at the PC-only users, people who in a given month only touch Facebook from a PC; these are falling both in absolute and, even more, in relative terms.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Peak Horse and the Importance of New Use Cases</title>
+      <link>http://localhost:1313/notes/note-05/</link>
+      <pubDate>Mon, 14 Jul 2014 11:59:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-05/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;I have a seen a few references to the transition between horse and car recently (Bill Gurley quoted Aaron Levie’s widely retweeted comments in his well argued piece on Uber recently, for example), comparing the idea of analyzing the car industry based on the number of horses in the US in the early 1900’s to McKinsey’s work on cellphones in 1980.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’d argue that the important thing was not the switch in mode of transport, but in what new use cases it enabled.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>IoT- 100B touchpoints?</title>
+      <link>http://localhost:1313/notes/note-04/</link>
+      <pubDate>Thu, 29 May 2014 11:59:14 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-04/</guid>
+      
+        <description>&lt;p&gt;Looking at Mary Meeker’s slides (#marymeeker) this year one thing that stands out (slide 11) is the factor of ten installed base growth. Does that make the Internet of things, with ubiquitous input (appliances, clothes, road sensors etc) and output (screens everywhere on everything, and via HUD) a 100B touchpoint opportunity?&lt;/p&gt;
+&lt;p&gt;Plausible? that would be 10-20 touchpoints per enabled person- I am already pretty much there&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Math and the Mobile Weekend</title>
+      <link>http://localhost:1313/notes/note-03/</link>
+      <pubDate>Sat, 13 Apr 2013 11:59:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-03/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;A few years ago, I was sitting in a management review of a fairly new product, and we were dismayed to see a 7% fall in monthly revenue, when we had been expecting a small increase. It took an embarrassingly long time before it was pointed out that we were reviewing February, which was 10.7% shorter than January, so a 7% fall was closer to a 4% rise on a daily basis.&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Billboards, posters, magazine ads and URLs</title>
+      <link>http://localhost:1313/notes/note-02/</link>
+      <pubDate>Mon, 12 Mar 2012 11:55:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-02/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Are Internet links in real-world advertising today’s “fresh fish sold here?”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In 1997/8 it was probably very exciting to be able to put a URL on a poster, or in a magazine ad. Oh look— we have a web site! (It was about the same time that every MBA who knew anything about the Internet was able to add “established company’s web presence” to her/his resume— you have taken that off your resume by now I hope). Now as you walk around the subway/metro in most big cities, or down the street in any town, most of the posters have a URL, and often of the form excitingband.com/latestalbum, bank.com/mortgages or localtransport.gov/mode.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Smartphone in the Real World</title>
+      <link>http://localhost:1313/notes/note-01/</link>
+      <pubDate>Tue, 14 Feb 2012 11:36:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/note-01/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Smartphones are enabling more and more people to interact richly and efficiently with the world around them. A standard response today to “what’s this?”, “how much is it?”, “when’s that?”, or “how do I?” is to get out the phone and expect it to produce a smart answer, which, more and more, it does. Smartphones are enabling people to scan bar and QR (quick response) codes, tap NFC (near field communications) tags, experience Augmented Reality, locate themselves on maps, and do sophisticated Visual and Voice search. Even the humble SMS short code is often a way for someone to react to something they see in the real world (or the TV). All of these experiences have the potential to bring the power of the Internet into the real world in a personal and relevant way.&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

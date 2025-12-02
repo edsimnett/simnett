@@ -1,0 +1,83 @@
+baseURL = 'https://simnett.net/'
+languageCode = 'en-us'
+title = 'Simnett Home Page'
+theme = 'anatole'
+  
+[params]
+
+mainSections = ["post", "docs"]  # Change to [] to hide ALL blog posts
+profilePicture = "/images/esimage.png"  # ← Image in static/images/
+author = "Ed Simnett"  # ← Displays in sidebar title
+#   customCss = ["css/profile-fix.css"]
+
+[[params.socialIcons]]
+  icon = "fab fa-bluesky"
+  title = "Bluesky"
+  url = "https://bsky.app/simnett"
+
+[[params.socialIcons]]
+  icon = "fab fa-instagram" 
+  title = "Instagram"
+  url = "https://instagram.com/simnett"
+
+
+[[params.socialIcons]]
+  icon = "fab fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/simnett"
+
+    [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "LinkedIn"
+    url = "https://linkedin.com/in/yourprofilesimnett"
+
+    [[params.socialIcons]]
+  icon = "fab fa-goodreads-g"
+  title = "Goodreads"
+  url = "https://www.goodreads.com/user/show/110321055-ed-simnett"
+
+   [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "Email"
+    url = "mailto:web@simnett.net"
+
+
+
+
+
+
+
+[params.anatole]
+  mainSections = []
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "Photos"
+    url = "https://photos.simnett.net"
+    weight = 3
+[module]
+  [[module.mounts]]
+    source = "themes/anatole/assets"
+    target = "assets"
